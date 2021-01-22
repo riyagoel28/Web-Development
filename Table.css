@@ -1,0 +1,37 @@
+table
+{
+    border:2px dotted black;
+    border-collapse: collpase;
+    text-align: center;
+}
+.heading
+{
+    color: red;
+}
+.row_heading1
+{
+    border:1px dotted black;
+    color:#0429fc;
+}
+.row_heading2
+{
+    border: 1px dotted black;
+    color:#e704fc;
+    font-weight: 1000;
+}
+th
+{
+    padding: 10px 35px 10px 35px;
+    border: 2px dotted black;
+    text-align: center;
+}
+tr
+{
+    padding: 10px 35px 10px 35px;
+    border: 2px dotted black;
+    text-align: center;
+}
+.row_heading1, .row1, .row3
+{
+   background-color: lightgray;
+}
