@@ -1,0 +1,103 @@
+h2{
+	margin-left:120px;
+}
+
+h3{
+	margin-left: 80px;
+}
+#streetsdd{
+	margin-left:120px;
+	width:105px;
+}
+#addr,#city,#postalcode{
+	width:150px;
+	margin-top:5px;
+}
+
+#landmark,#state{
+	margin-left: 120px;
+	width: 102px;
+}
+#country{
+	margin-left:60px;
+	width:150px;
+}
+#name{
+	margin-left:70px;
+	width:105px;
+}
+#lastname{
+
+	width:105px;
+
+}
+#email{
+	margin-left:68px; 
+	width:200px;
+}
+#phone{
+	margin-left:20px;
+	width:200px;
+}
+#gender{
+	margin-left:60px;
+	width:200px;
+
+}
+#citizen{
+	margin-left:60px;
+	width:200px;
+
+}
+#date{
+	margin-left:21px;
+	width:80px;
+}
+#month{
+	width:80px;
+}
+#year{
+	width:100px;
+}
+form{
+	position: relative;
+	top:30px;
+}
+label{
+	text-transform: uppercase;
+	font-weight: 500;
+}
+.button{
+	width:300px;
+	background-color: skyblue;
+	border:0px;
+	padding:5px;
+	color:white;
+	font-weight: 700;
+	position: relative;
+	left:120px;
+	top:20px;
+}
+.wrapped-container
+{
+	background-image: url("C:/Users/RIYA GOEL/Desktop/web development/form.jpg");
+	background-color:black;
+	color:white;
+	position: absolute;
+	left:450px;
+	top:30px;
+	border:1px solid black;
+	width: 600px;
+	height: 640px;
+}
+.text-container
+{
+	position:absolute;
+	left:35px;
+	top:5px;
+}
+input,select{
+	border: none;
+	border-radius: 5px;
+	padding: 7px;
+} 
